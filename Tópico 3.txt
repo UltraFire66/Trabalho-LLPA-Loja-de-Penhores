@@ -1,0 +1,25 @@
+Constante linha 6 - #define porc. 0.25
+
+Variaveis linha 8, 17, 64, 65  
+Ex: 8 float cart1,cart=0;
+
+Operações aritméticas linha 29, 38, 43, 69, 73, 91, 98, 121, 123, 125, 127, 129, 140, 156, 172, 191, 210, 225, 229, 232, 242, 247, 250, 261, 266, 269, 280, 285, 288, 299, 304, 307, 332,  336,121, 123, 125, 127, 129, 140, 156, 172, 191, 210, 225, 229, 232, 242, 247, 250, 261, 266, 269, 280, 285, 288, 299, 304, 307, 332, 336, 339, 356 360, 361, 364, 365
+Ex: 29 if (cart<preco){
+
+Operações logica linha 329, 385
+Ex: 329 }while (resp1!=11);
+
+Comandos de atribuição linha 8, 64, 70, 74, 103, 161, 178, 197, 217, 232, 250, 269, 288, 307, 362
+Ex: 362 precopen[verpen1]=precopen1;
+
+Comandos de entrada e saída linha 19, 22, 23, 24, 31, 40, 52, 81 a 85, 92, 94, 96, 97, 100, 106, 115 a 120, 122, 124, 126, 128, 130, 132, 133, 138, 141 a 144, 147, 154, 157 a 160, 163, 170, 173 a 177, 181, 189, 192 a 196, 200, 208, 211 a 216, 220, 227, 230, 231, 236, 244, 248, 249, 255, 263, 267, 268, 274, 282, 286, 287, 293, 301, 305, 306, 312, 321, 334, 340, 348, 350, 352, 354, 355, 358, 371
+Ex: 371 printf("\n\nDesculpe, mas não posso aceitar esse produto por um preço tão alto : (\n\n\n");
+
+Estrutura condicional simples e/ou estrutura codicional composta e/ou estrutura condicional de múltipla escolha linha 26, 28, 29, 31, 39, 50, 51, 87, 89, 91, 105, 112, 121, 123, 125, 127, 129, 134, 136, 140, 146, 153, 156, 162, 169, 172, 180, 188, 191, 199, 207, 210, 219, 225, 226, 229, 235, 242, 243, 247, 254, 261, 262, 266, 273, 280, 281, 285, 292, 299, 300, 304, 311, 318, 320, 331, 332, 339, 346, 356, 370
+Ex: 356  if (precopen1<10000){
+
+Estrutura de repetição com teste no início e/ou estrutura de repetição com teste no fim e/ou estrutura de repetição com variável de controe linha 69, 73, 77, 113, 329, 385
+Ex: 385 }while(resp!=4);
+
+Estruturas de dados homogêneas: vetores numéricos, vetores de caracteres e/ou matrizes linha 12, 13, 64 a 66, 70, 74, 121 a 130, 140, 145, 156, 161, 172, 178, 191, 197, 210, 217, 225, 227, 229, 232, 242, 244, 247, 250, 261, 263, 266, 269, 280, 282, 285, 288, 299, 301, 304, 307, 362 a 364 
+Ex: 364 verpen [verpen1] ++;
